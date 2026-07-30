@@ -1,6 +1,6 @@
-162.159.136.234:2053#CF-discord-2053
-162.159.135.234:8443#CF-discord-8443
-162.159.130.234:2083#CF-discord-2083
-162.159.134.234:2096#CF-discord-2096
-104.21.17.2:443#CF-aspredicted-443
-172.67.217.194:2053#CF-aspredicted-2053
+104.16.187.41:443#🛂galaxy-subdomain™
+162.159.135.234:8443#🛂galaxy-subdomain™
+160.79.104.10:2053#🛂galaxy-subdomain™
+104.18.31.8:2083#🛂galaxy-subdomain™
+researchbox.org:8443#🛂galaxy-subdomain™
+172.67.217.194:2053#🛂galaxy-subdomain™
