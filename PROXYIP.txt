@@ -1,14 +1,29 @@
 # ============================================
 # Galaxy-Tunnel ProxyIP List (Safe Version)
 # ============================================
-# --- Tier 1: CDN Proxies (Use with caution) ---
+# --- Tier 1: CDN Proxies ---
 cdn-b100.xn--b6gac.eu.org
 cdn-all.xn--b6gac.eu.org
-const FALLBACK_PROXY_IPS = [
-    "bpb.yebekhe.link",      // ✅ သင်တောင်းတဲ့
-    "icook.hk",              // ✅ သင်တောင်းတဲ့
-    "icook.tw",              // ✅ သင်တောင်းတဲ့
-    "104.16.1.1", "104.17.1.1", ... "104.31.1.1"  // ✅ CIDR → individual
-];
 
+# --- Tier 2: BPB & Edge ---
+bpb.yebekhe.link
+icook.hk
+icook.tw
 
+# --- Tier 3: Cloudflare IPs ---
+104.16.1.1
+104.17.1.1
+104.18.1.1
+104.19.1.1
+104.20.1.1
+104.21.1.1
+104.22.1.1
+104.23.1.1
+104.24.1.1
+104.25.1.1
+104.26.1.1
+104.27.1.1
+104.28.1.1
+104.29.1.1
+104.30.1.1
+104.31.1.1
