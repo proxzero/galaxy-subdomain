@@ -1,7 +1,7 @@
-vless://387dfbdc-20cd-4232-b34a-e4eacb4b4f65@speed.ioppo.workers.dev:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=speed.ioppo.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=speed.ioppo.workers.dev#Global-Galaxy-VLESS%F0%9F%94%B0 
+trojan://2812d7ad-88dd-41d8-8022-ccfd1c720964@www.onetrust.com:8443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=republic.zeroempty.workers.dev&type=ws&allowInsecure=0&sni=republic.zeroempty.workers.dev#Galaxy-Tunnel-PUBLII%C2%A9%E2%9A%A1%E2%9A%A1 
 
-vless://1df5a0cf-7187-4434-8a92-ef8328adc50c@example.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=prozerone.cozero.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prozerone.cozero.workers.dev#VLESS%2FSERVER-1%F0%9F%94%B0%20
+vless://133521f1-84a8-48e6-a012-87f6872e3411@MPT.com:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=freepublic.galaxyone.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=freepublic.galaxyone.workers.dev#Galaxy-Tunnel-PUBLII%C2%A9%E2%9A%A1%E2%9A%A1
 
-trojan://Global-Galaxy-Trojan@gamingnation.dtac.co.th:443?path=%2F&security=tls&insecure=0&host=global.galaxyll.workers.dev&type=ws&allowInsecure=0&sni=global.galaxyll.workers.dev#TROJAN%2FSERVER%201%E2%9A%A1%20
 
-trojan://6477f786-9599-451d-866d-ab50c569eb6a@galaxytunnel.cloudflareaccess.com:443?path=%2F&security=tls&insecure=0&host=xvless.iceisland.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=xvless.iceisland.workers.dev#TROJAN%2FSERVER%202%E2%9A%A1
+vless://133521f1-84a8-48e6-a012-87f6872e3411@104.18.6.178:2086?path=%2F&security=none&encryption=none&host=freepublic.galaxyone.workers.dev&type=ws&sni=freepublic.galaxyone.workers.dev#GT-Tunnel%F0%9F%94%B0
+
