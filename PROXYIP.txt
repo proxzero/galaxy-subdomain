@@ -6,6 +6,7 @@ cdn-b100.xn--b6gac.eu.org
 cdn.xn--b6gac.eu.org
 
 # --- Tier 2: BPB & Edge ---
-bpb.yebekhe.link
+bpb.yousef.isegaro.com 
 icook.hk
 icook.tw
+www.visa.com.sg
