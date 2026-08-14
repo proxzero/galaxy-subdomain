@@ -3,7 +3,7 @@
 # ============================================
 # --- Tier 1: CDN Proxies ---
 cdn-b100.xn--b6gac.eu.org
-cdn-all.xn--b6gac.eu.org
+cdn.xn--b6gac.eu.org
 
 # --- Tier 2: BPB & Edge ---
 bpb.yebekhe.link
