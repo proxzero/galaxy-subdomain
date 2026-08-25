@@ -1,7 +1,7 @@
-trojan://2812d7ad-88dd-41d8-8022-ccfd1c720964@www.onetrust.com:8443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=republic.zeroempty.workers.dev&type=ws&allowInsecure=0&sni=republic.zeroempty.workers.dev#Galaxy-Tunnel-PUBLII%C2%A9%E2%9A%A1%E2%9A%A1 
+vless://7180f693-efe2-4c69-891f-d275ba8793ad@netflixtechblog.com:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=sg2.galaxytunnel.infy.click&fp=random&type=ws&allowInsecure=0&sni=sg2.galaxytunnel.infy.click#%F0%9F%87%B2%F0%9F%87%B2%20GT-1%20VLESS
 
-vless://133521f1-84a8-48e6-a012-87f6872e3411@MPT.com:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=freepublic.galaxyone.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=freepublic.galaxyone.workers.dev#Galaxy-Tunnel-PUBLII%C2%A9%E2%9A%A1%E2%9A%A1
+vless://bbd4135d-2451-4439-b826-d5dfa7dafb0a@spacex.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=sg4.galaxytunnel.infy.click&fp=random&type=ws&allowInsecure=0&sni=sg4.galaxytunnel.infy.click#%F0%9F%87%B2%F0%9F%87%B2%20GT-2%20VLESS
 
+trojan://0d7589af-2008-40c2-94f6-f43a9748a3ac@2s.ms:443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=sg1.galaxytunnel.infy.click&fp=random&type=ws&allowInsecure=0&sni=sg1.galaxytunnel.infy.click#%F0%9F%87%B2%F0%9F%87%B2%20GT-1%20TROJAN
 
-vless://133521f1-84a8-48e6-a012-87f6872e3411@104.18.6.178:2086?path=%2F&security=none&encryption=none&host=freepublic.galaxyone.workers.dev&type=ws&sni=freepublic.galaxyone.workers.dev#GT-Tunnel%F0%9F%94%B0
-
+trojan://94800957-ba5f-4fb0-9af5-d3211fdbcc57@spacex.com:8443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=sg3.galaxytunnel.infy.click&fp=chrome&type=ws&allowInsecure=0&sni=sg3.galaxytunnel.infy.click#%F0%9F%87%B2%F0%9F%87%B2%20GT-2%20TROJAN
