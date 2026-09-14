@@ -1,4 +1,9 @@
-vless://147458dc-c820-43f8-85c6-66b1985938ab@infinityfree.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=www.lelouch.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=www.lelouch.abrdns.com#PUBLIC%20VLESS-1%F0%9F%8C%90
-vless://fbe4e0ad-7283-4b26-8f43-0cf1442a931c@infinityfree.com:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=galaxyp1.pages.dev&fp=random&type=ws&allowInsecure=0&sni=galaxyp1.pages.dev#PUBLIC%20VLESS-2%F0%9F%8C%90
-vless://44449f65-95bc-4b62-8c50-02fc2804f578@2s.ms:8443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=onex.privacy.bbroot.com&fp=random&type=ws&allowInsecure=0&sni=onex.privacy.bbroot.com#PUBLIC%20VLESS-3%F0%9F%8C%90
-trojan://70370594-e2eb-412f-b095-d9dd413c5e2a@2s.ms:443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=sub.tunnel.iblogger.org&fp=random&type=ws&allowInsecure=0#PUBLIC%20TROJAN%F0%9F%94%90
+vless://28239aa8-9a9e-4a16-a94b-ca73052d2e67@2s.ms:443?path=%2F&security=tls&encryption=none&insecure=0&host=2026.tunnel.iblogger.org&fp=android&type=ws&allowInsecure=0&sni=2026.tunnel.iblogger.org#GT%20FAST%E2%9A%A1VLESS
+
+vless://28e415b6-3b9a-45ce-98b2-9e4d7c64b350@www.perplexity.ai:443?path=%2Fgalaxy-tunnel&security=tls&alpn=h2&encryption=none&insecure=0&host=10.tunnel.iblogger.org&fp=android&type=ws&allowInsecure=0&sni=10.tunnel.iblogger.org#GT%20FAST%E2%9A%A1V2
+
+vless://4d55f79d-e3ce-4ef0-8a64-bc89d91d54fb@2s.ms:2083?path=%2F&security=tls&encryption=none&insecure=0&host=v.lelouch.abrdns.com&fp=android&type=ws&allowInsecure=0&sni=v.lelouch.abrdns.com#GT%20FAST%E2%9A%A1%20V3
+
+vless://147458dc-c820-43f8-85c6-66b1985938ab@www.speedtest.net:443?path=%2Fgalaxy-tunnel%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=www.lelouch.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=www.lelouch.abrdns.com#GT%20FAST%20%E2%9A%A1%20V4
+
+vless://119155f6-dfcf-4195-a510-014a634df691@example.com:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=eupro.pages.dev&fp=edge&type=ws&allowInsecure=0&sni=eupro.pages.dev#GT%20FAST%20%E2%9A%A1%E2%9A%A1%20V5
