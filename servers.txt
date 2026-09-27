@@ -1,9 +1,7 @@
-vless://28239aa8-9a9e-4a16-a94b-ca73052d2e67@2s.ms:443?path=%2F&security=tls&encryption=none&insecure=0&host=2026.tunnel.iblogger.org&fp=android&type=ws&allowInsecure=0&sni=2026.tunnel.iblogger.org#GT%20FAST%E2%9A%A1VLESS
+vless://11b912a0-3640-4a41-ab12-aae5a654429a@galaxytunnel.cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=acc1.galax.cc.cd&type=ws&allowInsecure=0&sni=acc1.galax.cc.cd#Tunnel-1%F0%9F%8C%90
 
-vless://28e415b6-3b9a-45ce-98b2-9e4d7c64b350@www.perplexity.ai:443?path=%2Fgalaxy-tunnel&security=tls&alpn=h2&encryption=none&insecure=0&host=10.tunnel.iblogger.org&fp=android&type=ws&allowInsecure=0&sni=10.tunnel.iblogger.org#GT%20FAST%E2%9A%A1V2
+vless://009e0caf-5c44-4298-a6f3-e1f95d1f5b4b@galaxytunnel.cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=acc2.galax.cc.cd&type=ws&allowInsecure=0&sni=acc2.galax.cc.cd#Tunnel-2%F0%9F%8C%90
 
-vless://4d55f79d-e3ce-4ef0-8a64-bc89d91d54fb@2s.ms:2083?path=%2F&security=tls&encryption=none&insecure=0&host=v.lelouch.abrdns.com&fp=android&type=ws&allowInsecure=0&sni=v.lelouch.abrdns.com#GT%20FAST%E2%9A%A1%20V3
+vless://baaad25b-6cc3-409a-991b-4ee01257de3b@galaxytunnel.cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=acc3.galax.cc.cd&type=ws&allowInsecure=0&sni=acc3.galax.cc.cd#Tunnel-3%F0%9F%8C%90
 
-vless://147458dc-c820-43f8-85c6-66b1985938ab@www.speedtest.net:443?path=%2Fgalaxy-tunnel%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=www.lelouch.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=www.lelouch.abrdns.com#GT%20FAST%20%E2%9A%A1%20V4
-
-vless://119155f6-dfcf-4195-a510-014a634df691@example.com:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=eupro.pages.dev&fp=edge&type=ws&allowInsecure=0&sni=eupro.pages.dev#GT%20FAST%20%E2%9A%A1%E2%9A%A1%20V5
+trojan://70370594-e2eb-412f-b095-d9dd413c5e2a@galaxytunnel.cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=sub.tunnel.iblogger.org&type=ws&allowInsecure=0&sni=sub.tunnel.iblogger.org#Galaxy-Tunnel-Trojan32%F0%9F%9A%80%E2%9A%A1%F0%9F%9A%80
