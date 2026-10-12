@@ -1,7 +1,4 @@
-vless://11b912a0-3640-4a41-ab12-aae5a654429a@galaxytunnel.cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=acc1.galax.cc.cd&type=ws&allowInsecure=0&sni=acc1.galax.cc.cd#Tunnel-1%F0%9F%8C%90
-
-vless://009e0caf-5c44-4298-a6f3-e1f95d1f5b4b@galaxytunnel.cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=acc2.galax.cc.cd&type=ws&allowInsecure=0&sni=acc2.galax.cc.cd#Tunnel-2%F0%9F%8C%90
-
-vless://baaad25b-6cc3-409a-991b-4ee01257de3b@galaxytunnel.cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=acc3.galax.cc.cd&type=ws&allowInsecure=0&sni=acc3.galax.cc.cd#Tunnel-3%F0%9F%8C%90
-
-trojan://70370594-e2eb-412f-b095-d9dd413c5e2a@galaxytunnel.cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&insecure=0&host=sub.tunnel.iblogger.org&type=ws&allowInsecure=0&sni=sub.tunnel.iblogger.org#Galaxy-Tunnel-Trojan32%F0%9F%9A%80%E2%9A%A1%F0%9F%9A%80
+vless://499781a6-5d19-4179-910f-f78a6ce28689@cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=pub.orezero.de5.net&fp=edge&type=ws&allowInsecure=0&sni=pub.orezero.de5.net#Tunnel%201%F0%9F%8C%90
+vless://0223bb80-a786-44f4-90d9-149bf73d7cb2@cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=bpb.orezero.de5.net&type=ws&allowInsecure=0&sni=bpb.orezero.de5.net#Tunnel-2%F0%9F%8C%90
+trojan://178b9888-2819-4138-87a9-9a132969e40b@www.lelouch.abrdns.com:443?path=%2F&security=tls&insecure=0&host=2002.orezero.de5.net&type=ws&allowInsecure=0#Tunnel%20Trojan%201%20%F0%9F%8C%90
+vless://6b13213e-c52f-4daa-a341-9ff80552c5f4@cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=2.orezero.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=2.orezero.de5.net#Tunnel%204%20%F0%9F%8C%90
