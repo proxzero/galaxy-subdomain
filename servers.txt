@@ -1,4 +1,5 @@
 vless://499781a6-5d19-4179-910f-f78a6ce28689@cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=pub.orezero.de5.net&fp=edge&type=ws&allowInsecure=0&sni=pub.orezero.de5.net#Tunnel%201%F0%9F%8C%90
 vless://0223bb80-a786-44f4-90d9-149bf73d7cb2@cloudflareaccess.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=bpb.orezero.de5.net&type=ws&allowInsecure=0&sni=bpb.orezero.de5.net#Tunnel-2%F0%9F%8C%90
-trojan://178b9888-2819-4138-87a9-9a132969e40b@www.lelouch.abrdns.com:443?path=%2F&security=tls&insecure=0&host=2002.orezero.de5.net&type=ws&allowInsecure=0#Tunnel%20Trojan%201%20%F0%9F%8C%90
+trojan://178b9888-2819-4138-87a9-9a132969e40b@www.lelouch.abrdns.com:443?path=%2F&security=tls&insecure=0&host=2002.orezero.de5.net&type=ws&allowInsecure=0&sni=2002.orezero.de5.net#Tunnel%20Trojan%201%20%F0%9F%8C%90
 vless://6b13213e-c52f-4daa-a341-9ff80552c5f4@cloudflareaccess.com:443?path=%2Fgalaxy-tunnel&security=tls&encryption=none&insecure=0&host=2.orezero.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=2.orezero.de5.net#Tunnel%204%20%F0%9F%8C%90
+vless://992b0e10-9ec5-4443-bfd7-58479be865c6@net.orezero.de5.net:443?path=%2Fgalaxy-tunnel%3Fed%3D2048&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=net.orezero.de5.net#Galaxy-Orezero%F0%9F%94%B0
